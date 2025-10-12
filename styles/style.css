@@ -10,7 +10,7 @@
 .header__menu {
     justify-self: start;
 }
-
+/**/
 .header__links-list {
     display: flex;
     gap: 32px;
