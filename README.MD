@@ -1,1 +1,1 @@
-https://github.com/thaperfectcell/ono-tebe-nado-ad
+HTTPS://GITHUB.COM/THAPERFECTCELL/ONO-TEBE-NADO-AD
